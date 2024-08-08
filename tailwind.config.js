@@ -9,6 +9,7 @@ export default {
       screens: {
         'custom-500': '500px',
         'custom-400': '400px',
+        'custom-300': '300px',
       },
     },
   },

@@ -60,7 +60,7 @@ function Main() {
           <div className="flex items-center justify-center w-full h-[90px] mt-14 mb-5 border border-white md:mt-10 sm:mt-8 custom-500:mt-6 custom-400:mt-4">
             <a
               href="tel:+998931907232"
-              className="text-white font-sans font-semibold text-2xl hover:text-yellow-300 sm:text-1xl xs:text-lg custom-500:text-md custom-400:text-md"
+              className="text-white font-sans font-semibold text-2xl hover:text-yellow-300 sm:text-1xl xs:text-lg custom-500:text-md custom-400:text-sm custom-300:text-[18px]"
             >
               FOR SERVICES AND OFFERS
             </a>
