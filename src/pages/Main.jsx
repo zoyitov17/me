@@ -29,7 +29,7 @@ function Main() {
           </div>
           <div className="flex items-center justify-center w-full h-[90px] mt-14 border border-white md:mt-10 sm:mt-8 custom-500:mt-6 custom-400:mt-4">
             <a
-              href="https://www.instagram.com/zoy1tov17/"
+              href="https://www.instagram.com/zoy1tov17"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white font-sans font-semibold text-3xl hover:text-yellow-300 sm:text-2xl xs:text-xl custom-500:text-lg custom-400:text-md"
@@ -60,7 +60,7 @@ function Main() {
           <div className="flex items-center justify-center w-full h-[90px] mt-14 mb-5 border border-white md:mt-10 sm:mt-8 custom-500:mt-6 custom-400:mt-4">
             <a
               href="tel:+998931907232"
-              className="text-white font-sans font-semibold text-3xl hover:text-yellow-300 sm:text-2xl xs:text-xl custom-500:text-lg custom-400:text-md"
+              className="text-white font-sans font-semibold text-2xl hover:text-yellow-300 sm:text-1xl xs:text-lg custom-500:text-md custom-400:text-md"
             >
               FOR SERVICES AND OFFERS
             </a>
