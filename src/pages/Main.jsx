@@ -6,7 +6,7 @@ function Main() {
     <div className="flex w-4/5 items-center justify-center h-4/5">
       <div className="mt-10 w-full h-full flex flex-col items-center justify-center max-w-screen-sm">
         <div className="mt-10 w-full h-full flex flex-col items-center justify-center">
-          <h1 className="text-white font-sans font-bold text-5xl md:text-4xl sm:text-3xl xs:text-2xl custom-500:text-[26px] custom-400:text-[22px]">
+          <h1 className="text-white font-sans font-bold text-5xl md:text-4xl sm:text-3xl xs:text-2xl custom-500:text-[26px] custom-400:text-[26px]">
             Adhamjon Zoyitov
           </h1>
           <div className="flex items-center justify-center w-full h-[90px] mt-14 border border-white md:mt-10 sm:mt-8 custom-500:mt-6 custom-400:mt-4">
